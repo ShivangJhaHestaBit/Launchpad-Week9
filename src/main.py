@@ -1,3 +1,6 @@
+'''
+Day 1
+
 import asyncio
 from agents import research_agent, summarizer_agent, answer_agent
 async def main() -> None:
@@ -14,3 +17,46 @@ async def main() -> None:
     print(answer)
 
 asyncio.run(main())
+
+'''
+
+
+import asyncio
+from autogen_ext.models.llama_cpp import LlamaCppChatCompletionClient
+from autogen_agentchat.messages import TextMessage
+from autogen_core import CancellationToken
+from orchestrator.planner_agent import Planner
+from agents.answer_agent import answer_agent
+
+async def main():
+    model_client = LlamaCppChatCompletionClient(
+        model_path="src/models/qwen2.5-3b-instruct-q4_0.gguf",
+        verbose=False,
+        temperature =0.7,
+        n_ctx=4096,
+        max_tokens = 256
+    )
+    
+    planner = Planner(model_client=model_client)
+    query = (
+        "Explain how retrieval augmented generation (RAG) works, "
+        "including ingestion, indexing, and inference."
+    )
+
+    final_answer, execution_tree = await planner.run(query)
+    cancellation = CancellationToken()
+    result = await answer_agent.on_messages(
+        [TextMessage(content=final_answer,source="reflector")],
+        cancellation
+    )
+    print("\nFINAL ANSWER\n")
+    print(result.chat_message.content)
+
+    print("\nEXECUTION TREE\n")
+    for node_id, data in execution_tree.items():
+        print(f"Node: {node_id}")
+        print(f"  Deps  : {data['deps']}")
+        print(f"  Output:\n{data['output']}\n")
+
+if __name__ == "__main__":
+    asyncio.run(main())
