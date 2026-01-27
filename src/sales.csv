@@ -1,0 +1,501 @@
+order_id,date,customer_id,category,product,quantity,unit_price,total_price,discount_percent,discount_amount,final_price,payment_method,region,sales_rep,status
+ORD1001,2025-01-26,CUST6734,Sports,Tennis Racket,8,167.16,1337.28,5,66.86,1270.42,Credit Card,South,Carol White,Completed
+ORD1002,2025-01-26,CUST1769,Books,Science,3,15.71,47.13,0,0.0,47.13,Credit Card,West,Frank Wilson,Completed
+ORD1003,2025-01-27,CUST9666,Books,Fiction,6,22.17,133.02,0,0.0,133.02,Credit Card,East,Grace Lee,Completed
+ORD1004,2025-01-28,CUST4890,Home & Garden,Bedding,9,271.69,2445.21,0,0.0,2445.21,Credit Card,Central,Alice Johnson,Pending
+ORD1005,2025-01-28,CUST7235,Sports,Dumbbells,5,323.7,1618.5,0,0.0,1618.5,Debit Card,West,Grace Lee,Completed
+ORD1006,2025-01-29,CUST2021,Home & Garden,Chair,8,151.63,1213.04,15,181.96,1031.08,Credit Card,South,David Brown,Cancelled
+ORD1007,2025-01-30,CUST8629,Clothing,Sneakers,4,142.13,568.52,5,28.43,540.09,Cash,West,Alice Johnson,Completed
+ORD1008,2025-01-31,CUST5859,Books,Non-Fiction,8,31.59,252.72,0,0.0,252.72,Credit Card,West,David Brown,Completed
+ORD1009,2025-01-31,CUST3027,Books,Fiction,9,10.63,95.67,15,14.35,81.32,PayPal,East,Carol White,Completed
+ORD1010,2025-02-01,CUST4099,Electronics,Headphones,7,296.26,2073.82,10,207.38,1866.44,Debit Card,North,Henry Taylor,Completed
+ORD1011,2025-02-02,CUST6056,Books,Biography,6,33.65,201.9,20,40.38,161.52,Cash,East,Emma Davis,Completed
+ORD1012,2025-02-03,CUST1206,Books,Non-Fiction,7,19.44,136.08,0,0.0,136.08,Debit Card,South,Bob Smith,Completed
+ORD1013,2025-02-03,CUST8574,Electronics,Tablet,4,932.26,3729.04,20,745.81,2983.23,PayPal,Central,Grace Lee,Completed
+ORD1014,2025-02-04,CUST3693,Home & Garden,Cookware,2,105.77,211.54,10,21.15,190.39,Credit Card,West,David Brown,Completed
+ORD1015,2025-02-05,CUST8392,Home & Garden,Lamp,9,87.38,786.42,0,0.0,786.42,Debit Card,North,Alice Johnson,Completed
+ORD1016,2025-02-05,CUST5413,Books,Fiction,6,22.19,133.14,5,6.66,126.48,Credit Card,Central,Alice Johnson,Completed
+ORD1017,2025-02-06,CUST2291,Home & Garden,Chair,1,219.8,219.8,0,0.0,219.8,Credit Card,South,Carol White,Completed
+ORD1018,2025-02-07,CUST1854,Electronics,Headphones,2,992.43,1984.86,5,99.24,1885.62,Cash,Central,Henry Taylor,Completed
+ORD1019,2025-02-08,CUST5931,Clothing,Dress,6,83.63,501.78,0,0.0,501.78,Credit Card,East,Henry Taylor,Completed
+ORD1020,2025-02-08,CUST7287,Books,Science,6,49.34,296.04,5,14.8,281.24,Credit Card,North,Alice Johnson,Completed
+ORD1021,2025-02-09,CUST2986,Books,Biography,4,33.64,134.56,0,0.0,134.56,Debit Card,East,David Brown,Completed
+ORD1022,2025-02-10,CUST6534,Electronics,Smartphone,9,1289.02,11601.18,0,0.0,11601.18,Credit Card,South,Carol White,Completed
+ORD1023,2025-02-11,CUST5548,Electronics,Tablet,2,888.55,1777.1,30,533.13,1243.97,Debit Card,Central,Henry Taylor,Completed
+ORD1024,2025-02-11,CUST7197,Home & Garden,Cookware,3,371.2,1113.6,20,222.72,890.88,PayPal,North,Henry Taylor,Pending
+ORD1025,2025-02-12,CUST3961,Sports,Bicycle,9,475.03,4275.27,10,427.53,3847.74,Debit Card,South,Bob Smith,Completed
+ORD1026,2025-02-13,CUST5911,Electronics,Tablet,1,1125.83,1125.83,5,56.29,1069.54,Debit Card,West,Henry Taylor,Completed
+ORD1027,2025-02-14,CUST2045,Electronics,Laptop,3,905.3,2715.9,10,271.59,2444.31,PayPal,Central,Carol White,Completed
+ORD1028,2025-02-14,CUST8996,Clothing,Dress,1,85.34,85.34,0,0.0,85.34,Credit Card,East,David Brown,Completed
+ORD1029,2025-02-15,CUST2060,Electronics,Tablet,5,1422.6,7113.0,20,1422.6,5690.4,Debit Card,Central,Alice Johnson,Completed
+ORD1030,2025-02-16,CUST2184,Sports,Yoga Mat,5,83.39,416.95,0,0.0,416.95,Credit Card,East,Henry Taylor,Completed
+ORD1031,2025-02-16,CUST5014,Clothing,Jacket,8,94.11,752.88,0,0.0,752.88,Debit Card,South,Grace Lee,Pending
+ORD1032,2025-02-17,CUST6596,Electronics,Laptop,6,377.61,2265.66,0,0.0,2265.66,Debit Card,South,Grace Lee,Completed
+ORD1033,2025-02-18,CUST3368,Books,Science,9,30.45,274.05,10,27.4,246.65,Credit Card,West,Carol White,Completed
+ORD1034,2025-02-19,CUST8509,Clothing,Jacket,6,80.53,483.18,5,24.16,459.02,Credit Card,North,David Brown,Completed
+ORD1035,2025-02-19,CUST4051,Home & Garden,Bedding,8,183.53,1468.24,15,220.24,1248.0,Debit Card,West,Emma Davis,Completed
+ORD1036,2025-02-20,CUST5465,Sports,Running Shoes,4,519.01,2076.04,0,0.0,2076.04,Credit Card,West,Bob Smith,Completed
+ORD1037,2025-02-21,CUST6949,Home & Garden,Bedding,5,379.7,1898.5,0,0.0,1898.5,Debit Card,North,David Brown,Completed
+ORD1038,2025-02-22,CUST8404,Electronics,Smartphone,6,511.72,3070.32,10,307.03,2763.29,Cash,Central,Alice Johnson,Completed
+ORD1039,2025-02-22,CUST3744,Books,History,3,26.78,80.34,15,12.05,68.29,Credit Card,Central,Frank Wilson,Completed
+ORD1040,2025-02-23,CUST8421,Sports,Tennis Racket,5,392.48,1962.4,5,98.12,1864.28,Credit Card,Central,Grace Lee,Pending
+ORD1041,2025-02-24,CUST5611,Sports,Dumbbells,3,227.19,681.57,5,34.08,647.49,PayPal,South,Alice Johnson,Completed
+ORD1042,2025-02-25,CUST3738,Sports,Bicycle,1,325.83,325.83,5,16.29,309.54,Debit Card,East,Emma Davis,Completed
+ORD1043,2025-02-25,CUST9945,Clothing,Jacket,2,45.45,90.9,0,0.0,90.9,Credit Card,East,Grace Lee,Completed
+ORD1044,2025-02-26,CUST4974,Clothing,Jeans,2,23.03,46.06,0,0.0,46.06,Debit Card,West,Bob Smith,Completed
+ORD1045,2025-02-27,CUST6988,Books,Science,9,26.72,240.48,5,12.02,228.46,PayPal,North,Henry Taylor,Cancelled
+ORD1046,2025-02-27,CUST4440,Sports,Dumbbells,8,218.76,1750.08,20,350.02,1400.06,PayPal,Central,Grace Lee,Completed
+ORD1047,2025-02-28,CUST1698,Electronics,Laptop,9,856.83,7711.47,0,0.0,7711.47,Credit Card,East,Alice Johnson,Cancelled
+ORD1048,2025-03-01,CUST6486,Home & Garden,Bedding,4,196.81,787.24,5,39.36,747.88,Credit Card,Central,Emma Davis,Completed
+ORD1049,2025-03-02,CUST2062,Home & Garden,Plant,7,383.62,2685.34,15,402.8,2282.54,Debit Card,Central,Emma Davis,Completed
+ORD1050,2025-03-02,CUST8241,Clothing,Dress,2,115.81,231.62,25,57.9,173.72,PayPal,South,David Brown,Completed
+ORD1051,2025-03-03,CUST6541,Books,Non-Fiction,2,25.87,51.74,0,0.0,51.74,Credit Card,East,Henry Taylor,Completed
+ORD1052,2025-03-04,CUST4141,Sports,Yoga Mat,9,759.12,6832.08,5,341.6,6490.48,Debit Card,West,Grace Lee,Completed
+ORD1053,2025-03-05,CUST5268,Home & Garden,Lamp,7,455.99,3191.93,5,159.6,3032.33,Debit Card,Central,Bob Smith,Completed
+ORD1054,2025-03-05,CUST1504,Sports,Tennis Racket,7,662.66,4638.62,10,463.86,4174.76,Credit Card,West,Alice Johnson,Completed
+ORD1055,2025-03-06,CUST6348,Books,Non-Fiction,5,10.49,52.45,0,0.0,52.45,Debit Card,West,Carol White,Completed
+ORD1056,2025-03-07,CUST9053,Electronics,Laptop,1,1104.47,1104.47,10,110.45,994.02,PayPal,East,Henry Taylor,Pending
+ORD1057,2025-03-07,CUST7819,Clothing,Sneakers,5,33.88,169.4,0,0.0,169.4,Credit Card,South,Henry Taylor,Completed
+ORD1058,2025-03-08,CUST6320,Sports,Tennis Racket,6,780.16,4680.96,0,0.0,4680.96,PayPal,North,Emma Davis,Completed
+ORD1059,2025-03-09,CUST1255,Books,History,6,46.44,278.64,25,69.66,208.98,Cash,Central,Grace Lee,Completed
+ORD1060,2025-03-10,CUST3193,Clothing,Jacket,7,25.88,181.16,5,9.06,172.1,Debit Card,North,Carol White,Completed
+ORD1061,2025-03-10,CUST8266,Home & Garden,Cookware,1,297.47,297.47,5,14.87,282.6,Credit Card,North,Emma Davis,Pending
+ORD1062,2025-03-11,CUST8190,Electronics,Smartwatch,6,1499.63,8997.78,20,1799.56,7198.22,Cash,Central,Emma Davis,Completed
+ORD1063,2025-03-12,CUST1716,Electronics,Smartwatch,1,785.71,785.71,25,196.43,589.28,PayPal,West,Frank Wilson,Completed
+ORD1064,2025-03-13,CUST9865,Clothing,Sneakers,7,54.93,384.51,10,38.45,346.06,Credit Card,East,Carol White,Completed
+ORD1065,2025-03-13,CUST3814,Sports,Tennis Racket,9,93.52,841.68,5,42.08,799.6,Debit Card,Central,Emma Davis,Completed
+ORD1066,2025-03-14,CUST8002,Sports,Dumbbells,2,296.71,593.42,10,59.34,534.08,PayPal,East,Grace Lee,Completed
+ORD1067,2025-03-15,CUST5892,Electronics,Tablet,3,587.35,1762.05,10,176.2,1585.85,Cash,West,Bob Smith,Completed
+ORD1068,2025-03-16,CUST6569,Sports,Bicycle,2,380.83,761.66,10,76.17,685.49,Debit Card,Central,Frank Wilson,Completed
+ORD1069,2025-03-16,CUST9472,Home & Garden,Chair,6,246.26,1477.56,10,147.76,1329.8,Debit Card,East,Henry Taylor,Completed
+ORD1070,2025-03-17,CUST6585,Clothing,Dress,3,45.0,135.0,15,20.25,114.75,Credit Card,West,Bob Smith,Completed
+ORD1071,2025-03-18,CUST8240,Electronics,Smartwatch,2,799.01,1598.02,0,0.0,1598.02,Debit Card,South,Alice Johnson,Completed
+ORD1072,2025-03-18,CUST2276,Home & Garden,Plant,4,31.22,124.88,15,18.73,106.15,Debit Card,West,Grace Lee,Pending
+ORD1073,2025-03-19,CUST7809,Clothing,Sneakers,8,67.96,543.68,10,54.37,489.31,Credit Card,East,Henry Taylor,Completed
+ORD1074,2025-03-20,CUST4086,Home & Garden,Bedding,6,80.37,482.22,5,24.11,458.11,Credit Card,North,Grace Lee,Completed
+ORD1075,2025-03-21,CUST7168,Electronics,Laptop,9,474.88,4273.92,20,854.78,3419.14,PayPal,West,Bob Smith,Completed
+ORD1076,2025-03-21,CUST7738,Sports,Dumbbells,8,457.25,3658.0,5,182.9,3475.1,Credit Card,South,Alice Johnson,Pending
+ORD1077,2025-03-22,CUST2460,Clothing,Jacket,6,66.29,397.74,10,39.77,357.97,Credit Card,Central,Frank Wilson,Completed
+ORD1078,2025-03-23,CUST5324,Home & Garden,Chair,3,67.71,203.13,0,0.0,203.13,Credit Card,West,Henry Taylor,Completed
+ORD1079,2025-03-24,CUST3551,Sports,Running Shoes,6,695.77,4174.62,25,1043.66,3130.96,Cash,East,Frank Wilson,Completed
+ORD1080,2025-03-24,CUST9915,Clothing,Jacket,5,129.02,645.1,0,0.0,645.1,Credit Card,North,David Brown,Completed
+ORD1081,2025-03-25,CUST4744,Clothing,Dress,4,85.79,343.16,0,0.0,343.16,Credit Card,South,Henry Taylor,Completed
+ORD1082,2025-03-26,CUST2342,Sports,Dumbbells,2,274.82,549.64,0,0.0,549.64,PayPal,Central,Alice Johnson,Completed
+ORD1083,2025-03-26,CUST9567,Home & Garden,Chair,2,429.84,859.68,0,0.0,859.68,Credit Card,East,Alice Johnson,Completed
+ORD1084,2025-03-27,CUST7413,Electronics,Tablet,8,1294.38,10355.04,15,1553.26,8801.78,PayPal,West,Frank Wilson,Completed
+ORD1085,2025-03-28,CUST2065,Home & Garden,Cookware,4,327.87,1311.48,0,0.0,1311.48,PayPal,North,Bob Smith,Completed
+ORD1086,2025-03-29,CUST3712,Home & Garden,Plant,7,171.65,1201.55,5,60.08,1141.47,Credit Card,North,Alice Johnson,Completed
+ORD1087,2025-03-29,CUST2202,Books,Biography,6,31.71,190.26,25,47.56,142.7,Credit Card,South,Henry Taylor,Pending
+ORD1088,2025-03-30,CUST2120,Electronics,Tablet,4,1163.9,4655.6,30,1396.68,3258.92,PayPal,Central,Emma Davis,Completed
+ORD1089,2025-03-31,CUST7028,Sports,Dumbbells,1,615.91,615.91,0,0.0,615.91,Credit Card,West,Emma Davis,Completed
+ORD1090,2025-04-01,CUST5225,Books,History,4,29.45,117.8,10,11.78,106.02,Debit Card,East,Grace Lee,Completed
+ORD1091,2025-04-01,CUST7166,Clothing,Jacket,4,97.87,391.48,0,0.0,391.48,Debit Card,South,Frank Wilson,Pending
+ORD1092,2025-04-02,CUST4531,Clothing,T-Shirt,8,53.28,426.24,20,85.25,340.99,Cash,West,David Brown,Completed
+ORD1093,2025-04-03,CUST8196,Books,Non-Fiction,9,40.85,367.65,5,18.38,349.27,Cash,North,Frank Wilson,Completed
+ORD1094,2025-04-04,CUST3872,Books,History,4,16.62,66.48,0,0.0,66.48,Credit Card,North,Grace Lee,Completed
+ORD1095,2025-04-04,CUST8970,Books,Fiction,4,39.77,159.08,15,23.86,135.22,PayPal,West,Alice Johnson,Pending
+ORD1096,2025-04-05,CUST5971,Clothing,Jacket,1,115.88,115.88,5,5.79,110.09,Credit Card,East,Carol White,Completed
+ORD1097,2025-04-06,CUST5757,Sports,Tennis Racket,1,734.01,734.01,15,110.1,623.91,Credit Card,South,David Brown,Completed
+ORD1098,2025-04-06,CUST6182,Electronics,Tablet,4,796.69,3186.76,5,159.34,3027.42,Debit Card,Central,Henry Taylor,Completed
+ORD1099,2025-04-07,CUST3717,Books,Biography,3,18.4,55.2,0,0.0,55.2,Credit Card,Central,Alice Johnson,Completed
+ORD1100,2025-04-08,CUST7645,Home & Garden,Lamp,3,168.2,504.6,5,25.23,479.37,Debit Card,West,Alice Johnson,Completed
+ORD1101,2025-04-09,CUST5873,Sports,Yoga Mat,7,284.13,1988.91,25,497.23,1491.68,Debit Card,South,Carol White,Completed
+ORD1102,2025-04-09,CUST6954,Sports,Dumbbells,8,696.92,5575.36,0,0.0,5575.36,Credit Card,East,Grace Lee,Completed
+ORD1103,2025-04-10,CUST3143,Books,Biography,8,45.5,364.0,0,0.0,364.0,Credit Card,East,Henry Taylor,Completed
+ORD1104,2025-04-11,CUST5242,Books,Non-Fiction,7,10.52,73.64,10,7.36,66.28,Debit Card,Central,Carol White,Completed
+ORD1105,2025-04-12,CUST2409,Clothing,T-Shirt,4,126.27,505.08,0,0.0,505.08,Credit Card,East,Grace Lee,Completed
+ORD1106,2025-04-12,CUST2387,Books,Fiction,3,27.45,82.35,25,20.59,61.76,Debit Card,North,Bob Smith,Cancelled
+ORD1107,2025-04-13,CUST9428,Electronics,Smartphone,9,229.21,2062.89,5,103.14,1959.75,Credit Card,North,Grace Lee,Completed
+ORD1108,2025-04-14,CUST1074,Sports,Dumbbells,2,432.41,864.82,0,0.0,864.82,Credit Card,South,Henry Taylor,Completed
+ORD1109,2025-04-15,CUST2622,Clothing,T-Shirt,6,72.68,436.08,15,65.41,370.67,Credit Card,Central,Bob Smith,Completed
+ORD1110,2025-04-15,CUST3969,Home & Garden,Lamp,9,312.24,2810.16,5,140.51,2669.65,PayPal,Central,David Brown,Completed
+ORD1111,2025-04-16,CUST6490,Clothing,Sneakers,1,144.62,144.62,0,0.0,144.62,Credit Card,South,Emma Davis,Completed
+ORD1112,2025-04-17,CUST5150,Sports,Yoga Mat,8,584.19,4673.52,5,233.68,4439.84,Credit Card,Central,Henry Taylor,Completed
+ORD1113,2025-04-17,CUST7122,Sports,Running Shoes,1,486.19,486.19,5,24.31,461.88,PayPal,South,Alice Johnson,Completed
+ORD1114,2025-04-18,CUST8970,Electronics,Laptop,8,736.63,5893.04,5,294.65,5598.39,PayPal,East,Bob Smith,Completed
+ORD1115,2025-04-19,CUST1329,Clothing,Sneakers,1,66.93,66.93,0,0.0,66.93,Debit Card,North,Grace Lee,Completed
+ORD1116,2025-04-20,CUST9901,Home & Garden,Plant,5,386.75,1933.75,10,193.38,1740.37,Debit Card,North,Bob Smith,Completed
+ORD1117,2025-04-20,CUST6913,Clothing,T-Shirt,7,142.73,999.11,30,299.73,699.38,Cash,Central,Frank Wilson,Completed
+ORD1118,2025-04-21,CUST2500,Books,Fiction,8,17.7,141.6,25,35.4,106.2,PayPal,South,Grace Lee,Completed
+ORD1119,2025-04-22,CUST4223,Clothing,Jacket,1,127.76,127.76,10,12.78,114.98,Credit Card,East,David Brown,Completed
+ORD1120,2025-04-23,CUST9230,Books,Biography,7,23.59,165.13,5,8.26,156.87,PayPal,North,David Brown,Completed
+ORD1121,2025-04-23,CUST4241,Clothing,T-Shirt,2,135.18,270.36,0,0.0,270.36,Credit Card,South,Frank Wilson,Completed
+ORD1122,2025-04-24,CUST3032,Clothing,Jacket,4,29.1,116.4,0,0.0,116.4,Debit Card,Central,Frank Wilson,Completed
+ORD1123,2025-04-25,CUST5435,Sports,Yoga Mat,9,620.41,5583.69,0,0.0,5583.69,Credit Card,Central,Alice Johnson,Completed
+ORD1124,2025-04-25,CUST9896,Clothing,Sneakers,5,113.02,565.1,0,0.0,565.1,Credit Card,Central,Frank Wilson,Completed
+ORD1125,2025-04-26,CUST5805,Electronics,Tablet,5,483.73,2418.65,15,362.8,2055.85,Debit Card,East,Frank Wilson,Completed
+ORD1126,2025-04-27,CUST6429,Sports,Bicycle,4,204.55,818.2,15,122.73,695.47,Debit Card,Central,Carol White,Completed
+ORD1127,2025-04-28,CUST4845,Clothing,T-Shirt,1,48.66,48.66,25,12.16,36.5,Debit Card,Central,Emma Davis,Completed
+ORD1128,2025-04-28,CUST8657,Electronics,Headphones,1,976.46,976.46,0,0.0,976.46,Debit Card,East,Bob Smith,Cancelled
+ORD1129,2025-04-29,CUST5675,Home & Garden,Cookware,8,135.49,1083.92,10,108.39,975.53,Debit Card,Central,Bob Smith,Completed
+ORD1130,2025-04-30,CUST1954,Home & Garden,Bedding,3,254.04,762.12,25,190.53,571.59,Credit Card,South,Henry Taylor,Completed
+ORD1131,2025-05-01,CUST4020,Home & Garden,Plant,2,52.93,105.86,0,0.0,105.86,Cash,West,Emma Davis,Completed
+ORD1132,2025-05-01,CUST7183,Books,History,3,46.26,138.78,0,0.0,138.78,Credit Card,East,Emma Davis,Pending
+ORD1133,2025-05-02,CUST3604,Home & Garden,Bedding,9,429.77,3867.93,0,0.0,3867.93,Debit Card,North,Emma Davis,Completed
+ORD1134,2025-05-03,CUST8561,Sports,Tennis Racket,9,707.67,6369.03,0,0.0,6369.03,PayPal,East,Emma Davis,Completed
+ORD1135,2025-05-04,CUST2136,Sports,Dumbbells,7,669.9,4689.3,0,0.0,4689.3,Credit Card,North,Alice Johnson,Completed
+ORD1136,2025-05-04,CUST6352,Books,Biography,3,15.14,45.42,15,6.81,38.61,Credit Card,South,Grace Lee,Completed
+ORD1137,2025-05-05,CUST2265,Books,History,4,41.55,166.2,10,16.62,149.58,Credit Card,West,Carol White,Completed
+ORD1138,2025-05-06,CUST7353,Electronics,Smartphone,6,815.65,4893.9,10,489.39,4404.51,Cash,South,Frank Wilson,Cancelled
+ORD1139,2025-05-06,CUST8813,Sports,Running Shoes,7,125.82,880.74,0,0.0,880.74,Debit Card,East,Carol White,Completed
+ORD1140,2025-05-07,CUST1038,Clothing,Dress,3,142.76,428.28,5,21.41,406.87,Credit Card,Central,Emma Davis,Completed
+ORD1141,2025-05-08,CUST1988,Sports,Running Shoes,1,236.78,236.78,25,59.2,177.58,Debit Card,Central,Grace Lee,Completed
+ORD1142,2025-05-09,CUST1933,Home & Garden,Chair,1,237.88,237.88,0,0.0,237.88,Credit Card,South,Emma Davis,Pending
+ORD1143,2025-05-09,CUST1984,Sports,Dumbbells,8,694.88,5559.04,0,0.0,5559.04,PayPal,North,Emma Davis,Completed
+ORD1144,2025-05-10,CUST5473,Clothing,Sneakers,5,22.32,111.6,20,22.32,89.28,PayPal,East,David Brown,Completed
+ORD1145,2025-05-11,CUST8099,Electronics,Tablet,9,521.8,4696.2,0,0.0,4696.2,Debit Card,Central,Emma Davis,Completed
+ORD1146,2025-05-12,CUST2389,Books,Fiction,2,10.46,20.92,10,2.09,18.83,PayPal,East,Emma Davis,Cancelled
+ORD1147,2025-05-12,CUST7731,Electronics,Headphones,8,824.66,6597.28,0,0.0,6597.28,Credit Card,North,Frank Wilson,Completed
+ORD1148,2025-05-13,CUST9032,Sports,Bicycle,8,293.16,2345.28,0,0.0,2345.28,Credit Card,South,Alice Johnson,Completed
+ORD1149,2025-05-14,CUST8014,Electronics,Smartwatch,6,302.15,1812.9,0,0.0,1812.9,Debit Card,South,Frank Wilson,Completed
+ORD1150,2025-05-15,CUST3056,Clothing,Sneakers,3,33.59,100.77,20,20.15,80.62,Debit Card,North,Grace Lee,Completed
+ORD1151,2025-05-15,CUST9442,Sports,Dumbbells,4,509.61,2038.44,0,0.0,2038.44,Debit Card,East,David Brown,Completed
+ORD1152,2025-05-16,CUST2560,Clothing,Jacket,2,25.3,50.6,0,0.0,50.6,Credit Card,Central,Carol White,Cancelled
+ORD1153,2025-05-17,CUST1306,Sports,Tennis Racket,7,166.14,1162.98,5,58.15,1104.83,Credit Card,West,Bob Smith,Completed
+ORD1154,2025-05-17,CUST7236,Books,Fiction,3,29.73,89.19,10,8.92,80.27,Debit Card,North,Grace Lee,Pending
+ORD1155,2025-05-18,CUST4453,Clothing,Dress,5,130.01,650.05,0,0.0,650.05,Credit Card,West,David Brown,Pending
+ORD1156,2025-05-19,CUST2394,Electronics,Tablet,2,238.21,476.42,5,23.82,452.6,Credit Card,South,Frank Wilson,Completed
+ORD1157,2025-05-20,CUST7895,Clothing,Dress,3,115.3,345.9,15,51.88,294.02,Credit Card,South,David Brown,Completed
+ORD1158,2025-05-20,CUST2646,Books,History,9,12.77,114.93,0,0.0,114.93,Debit Card,North,David Brown,Completed
+ORD1159,2025-05-21,CUST5356,Home & Garden,Chair,2,485.62,971.24,20,194.25,776.99,Debit Card,North,Henry Taylor,Completed
+ORD1160,2025-05-22,CUST6895,Home & Garden,Lamp,9,64.54,580.86,5,29.04,551.82,PayPal,East,David Brown,Completed
+ORD1161,2025-05-23,CUST4568,Sports,Bicycle,5,53.42,267.1,0,0.0,267.1,Debit Card,West,Henry Taylor,Pending
+ORD1162,2025-05-23,CUST1968,Sports,Running Shoes,2,111.74,223.48,30,67.04,156.44,Credit Card,Central,David Brown,Completed
+ORD1163,2025-05-24,CUST2229,Home & Garden,Plant,5,468.92,2344.6,0,0.0,2344.6,Credit Card,West,Bob Smith,Completed
+ORD1164,2025-05-25,CUST6342,Home & Garden,Cookware,9,38.17,343.53,10,34.35,309.18,Credit Card,East,Bob Smith,Completed
+ORD1165,2025-05-25,CUST9320,Books,Science,7,38.19,267.33,0,0.0,267.33,Credit Card,Central,Henry Taylor,Cancelled
+ORD1166,2025-05-26,CUST8705,Clothing,T-Shirt,2,128.95,257.9,0,0.0,257.9,Credit Card,North,David Brown,Completed
+ORD1167,2025-05-27,CUST9125,Sports,Yoga Mat,5,490.47,2452.35,10,245.24,2207.11,Cash,West,Bob Smith,Completed
+ORD1168,2025-05-28,CUST4230,Electronics,Laptop,9,728.98,6560.82,0,0.0,6560.82,PayPal,North,Carol White,Completed
+ORD1169,2025-05-28,CUST2388,Sports,Running Shoes,2,651.08,1302.16,20,260.43,1041.73,Credit Card,East,Alice Johnson,Completed
+ORD1170,2025-05-29,CUST3875,Electronics,Smartwatch,7,621.96,4353.72,5,217.69,4136.03,Debit Card,Central,Alice Johnson,Completed
+ORD1171,2025-05-30,CUST8117,Home & Garden,Bedding,3,36.89,110.67,0,0.0,110.67,Debit Card,South,Bob Smith,Completed
+ORD1172,2025-05-31,CUST5760,Clothing,Jeans,5,82.29,411.45,15,61.72,349.73,Credit Card,West,Emma Davis,Completed
+ORD1173,2025-05-31,CUST7570,Sports,Bicycle,7,496.13,3472.91,15,520.94,2951.97,Credit Card,Central,Emma Davis,Completed
+ORD1174,2025-06-01,CUST1140,Books,Science,4,48.19,192.76,20,38.55,154.21,Credit Card,East,Bob Smith,Completed
+ORD1175,2025-06-02,CUST1105,Books,Science,3,36.8,110.4,5,5.52,104.88,PayPal,West,Frank Wilson,Completed
+ORD1176,2025-06-03,CUST8052,Sports,Dumbbells,7,119.46,836.22,10,83.62,752.6,Credit Card,North,Bob Smith,Pending
+ORD1177,2025-06-03,CUST6495,Sports,Bicycle,6,92.46,554.76,5,27.74,527.02,Credit Card,Central,Bob Smith,Completed
+ORD1178,2025-06-04,CUST6752,Books,Science,9,19.12,172.08,10,17.21,154.87,Cash,Central,Bob Smith,Completed
+ORD1179,2025-06-05,CUST4683,Clothing,Jacket,2,121.47,242.94,10,24.29,218.65,Debit Card,West,Grace Lee,Completed
+ORD1180,2025-06-05,CUST1482,Sports,Dumbbells,2,375.12,750.24,0,0.0,750.24,Debit Card,West,Bob Smith,Completed
+ORD1181,2025-06-06,CUST7652,Books,Biography,9,34.28,308.52,0,0.0,308.52,Credit Card,North,Frank Wilson,Completed
+ORD1182,2025-06-07,CUST7602,Books,Non-Fiction,6,26.17,157.02,5,7.85,149.17,Credit Card,West,Frank Wilson,Completed
+ORD1183,2025-06-08,CUST8843,Clothing,Dress,8,30.32,242.56,10,24.26,218.3,Credit Card,East,Alice Johnson,Completed
+ORD1184,2025-06-08,CUST3475,Electronics,Tablet,2,775.13,1550.26,10,155.03,1395.23,Debit Card,East,Henry Taylor,Pending
+ORD1185,2025-06-09,CUST6249,Clothing,Jacket,3,89.28,267.84,0,0.0,267.84,Credit Card,West,Bob Smith,Cancelled
+ORD1186,2025-06-10,CUST4374,Sports,Bicycle,5,93.79,468.95,0,0.0,468.95,Debit Card,North,Grace Lee,Completed
+ORD1187,2025-06-11,CUST2679,Electronics,Tablet,8,651.84,5214.72,15,782.21,4432.51,Credit Card,Central,Grace Lee,Completed
+ORD1188,2025-06-11,CUST1148,Books,Science,1,47.08,47.08,15,7.06,40.02,Credit Card,West,Frank Wilson,Completed
+ORD1189,2025-06-12,CUST4725,Electronics,Smartwatch,6,1273.89,7643.34,0,0.0,7643.34,Credit Card,West,Alice Johnson,Completed
+ORD1190,2025-06-13,CUST6962,Electronics,Smartwatch,9,650.22,5851.98,5,292.6,5559.38,Credit Card,East,David Brown,Pending
+ORD1191,2025-06-13,CUST9435,Clothing,Jacket,6,122.22,733.32,5,36.67,696.65,Cash,South,David Brown,Completed
+ORD1192,2025-06-14,CUST8629,Clothing,Dress,8,69.48,555.84,5,27.79,528.05,Credit Card,East,Henry Taylor,Completed
+ORD1193,2025-06-15,CUST8373,Books,Biography,2,16.94,33.88,0,0.0,33.88,Debit Card,West,Bob Smith,Completed
+ORD1194,2025-06-16,CUST5917,Electronics,Smartwatch,4,1320.62,5282.48,10,528.25,4754.23,Debit Card,Central,David Brown,Completed
+ORD1195,2025-06-16,CUST1963,Electronics,Smartwatch,8,677.79,5422.32,5,271.12,5151.2,Cash,North,Grace Lee,Completed
+ORD1196,2025-06-17,CUST6947,Sports,Tennis Racket,4,750.75,3003.0,5,150.15,2852.85,Debit Card,Central,Carol White,Completed
+ORD1197,2025-06-18,CUST5737,Home & Garden,Cookware,2,295.29,590.58,5,29.53,561.05,Credit Card,East,Bob Smith,Completed
+ORD1198,2025-06-19,CUST7406,Electronics,Headphones,5,421.86,2109.3,0,0.0,2109.3,Debit Card,West,Alice Johnson,Cancelled
+ORD1199,2025-06-19,CUST1419,Electronics,Smartwatch,4,999.79,3999.16,0,0.0,3999.16,Debit Card,West,Frank Wilson,Completed
+ORD1200,2025-06-20,CUST7140,Sports,Tennis Racket,6,299.53,1797.18,15,269.58,1527.6,Credit Card,Central,Frank Wilson,Completed
+ORD1201,2025-06-21,CUST7356,Books,History,8,40.41,323.28,5,16.16,307.12,Debit Card,South,Bob Smith,Completed
+ORD1202,2025-06-22,CUST5795,Books,History,1,11.71,11.71,0,0.0,11.71,Debit Card,East,Grace Lee,Completed
+ORD1203,2025-06-22,CUST1593,Books,Non-Fiction,2,15.09,30.18,0,0.0,30.18,Debit Card,East,Alice Johnson,Pending
+ORD1204,2025-06-23,CUST1016,Clothing,Dress,1,144.31,144.31,25,36.08,108.23,Debit Card,North,Alice Johnson,Completed
+ORD1205,2025-06-24,CUST9906,Books,Fiction,8,43.63,349.04,5,17.45,331.59,PayPal,South,Henry Taylor,Completed
+ORD1206,2025-06-24,CUST8083,Electronics,Tablet,3,785.81,2357.43,0,0.0,2357.43,Debit Card,North,Grace Lee,Completed
+ORD1207,2025-06-25,CUST3711,Electronics,Headphones,3,1056.75,3170.25,0,0.0,3170.25,Debit Card,North,Emma Davis,Completed
+ORD1208,2025-06-26,CUST9754,Sports,Running Shoes,3,777.33,2331.99,10,233.2,2098.79,Credit Card,East,Bob Smith,Completed
+ORD1209,2025-06-27,CUST3376,Clothing,Sneakers,8,136.86,1094.88,15,164.23,930.65,Credit Card,South,Grace Lee,Completed
+ORD1210,2025-06-27,CUST9561,Sports,Yoga Mat,7,524.03,3668.21,0,0.0,3668.21,Credit Card,South,Emma Davis,Completed
+ORD1211,2025-06-28,CUST8569,Clothing,Dress,2,95.71,191.42,0,0.0,191.42,Credit Card,North,Alice Johnson,Completed
+ORD1212,2025-06-29,CUST1685,Clothing,T-Shirt,4,41.28,165.12,0,0.0,165.12,Cash,North,Henry Taylor,Completed
+ORD1213,2025-06-30,CUST8165,Electronics,Tablet,2,1394.6,2789.2,10,278.92,2510.28,PayPal,Central,Frank Wilson,Completed
+ORD1214,2025-06-30,CUST8003,Sports,Running Shoes,6,273.05,1638.3,30,491.49,1146.81,Credit Card,Central,Emma Davis,Completed
+ORD1215,2025-07-01,CUST9652,Sports,Running Shoes,3,772.98,2318.94,0,0.0,2318.94,Debit Card,East,Emma Davis,Completed
+ORD1216,2025-07-02,CUST7279,Home & Garden,Plant,9,74.07,666.63,15,99.99,566.64,Credit Card,South,Bob Smith,Completed
+ORD1217,2025-07-03,CUST9033,Books,Biography,8,49.67,397.36,0,0.0,397.36,Debit Card,East,Alice Johnson,Completed
+ORD1218,2025-07-03,CUST3649,Home & Garden,Cookware,9,353.31,3179.79,5,158.99,3020.8,PayPal,South,Frank Wilson,Completed
+ORD1219,2025-07-04,CUST2778,Electronics,Smartphone,4,1186.28,4745.12,0,0.0,4745.12,Credit Card,East,Emma Davis,Completed
+ORD1220,2025-07-05,CUST2828,Sports,Bicycle,6,629.81,3778.86,5,188.94,3589.92,Debit Card,Central,Frank Wilson,Completed
+ORD1221,2025-07-05,CUST3563,Sports,Bicycle,4,640.5,2562.0,5,128.1,2433.9,PayPal,Central,Frank Wilson,Completed
+ORD1222,2025-07-06,CUST1593,Clothing,Sneakers,8,92.89,743.12,10,74.31,668.81,Credit Card,East,Grace Lee,Completed
+ORD1223,2025-07-07,CUST1867,Home & Garden,Plant,6,380.58,2283.48,0,0.0,2283.48,Credit Card,East,Henry Taylor,Completed
+ORD1224,2025-07-08,CUST9667,Electronics,Laptop,4,315.18,1260.72,0,0.0,1260.72,Cash,East,Grace Lee,Pending
+ORD1225,2025-07-08,CUST3010,Books,Fiction,4,26.85,107.4,5,5.37,102.03,PayPal,West,Carol White,Cancelled
+ORD1226,2025-07-09,CUST7397,Books,Fiction,2,32.62,65.24,0,0.0,65.24,Debit Card,Central,Frank Wilson,Completed
+ORD1227,2025-07-10,CUST8999,Books,Biography,3,20.37,61.11,0,0.0,61.11,PayPal,Central,David Brown,Completed
+ORD1228,2025-07-11,CUST8462,Books,Science,4,15.34,61.36,0,0.0,61.36,Debit Card,South,Carol White,Completed
+ORD1229,2025-07-11,CUST7868,Electronics,Tablet,9,370.75,3336.75,15,500.51,2836.24,Credit Card,West,Bob Smith,Completed
+ORD1230,2025-07-12,CUST8896,Home & Garden,Bedding,6,399.95,2399.7,5,119.98,2279.72,Credit Card,Central,Frank Wilson,Completed
+ORD1231,2025-07-13,CUST1689,Home & Garden,Bedding,9,321.26,2891.34,0,0.0,2891.34,Credit Card,North,Carol White,Pending
+ORD1232,2025-07-13,CUST3539,Clothing,Jacket,7,145.24,1016.68,0,0.0,1016.68,Cash,North,Emma Davis,Completed
+ORD1233,2025-07-14,CUST6976,Home & Garden,Lamp,1,119.86,119.86,5,5.99,113.87,Cash,Central,Henry Taylor,Completed
+ORD1234,2025-07-15,CUST4062,Electronics,Smartphone,9,1136.01,10224.09,20,2044.82,8179.27,Cash,North,Alice Johnson,Completed
+ORD1235,2025-07-16,CUST5624,Sports,Dumbbells,7,445.47,3118.29,10,311.83,2806.46,Credit Card,South,Frank Wilson,Completed
+ORD1236,2025-07-16,CUST4137,Clothing,Dress,6,38.32,229.92,15,34.49,195.43,PayPal,South,Bob Smith,Completed
+ORD1237,2025-07-17,CUST2854,Sports,Bicycle,3,300.88,902.64,0,0.0,902.64,Credit Card,North,Henry Taylor,Pending
+ORD1238,2025-07-18,CUST2749,Clothing,Sneakers,6,118.38,710.28,0,0.0,710.28,Credit Card,West,David Brown,Pending
+ORD1239,2025-07-19,CUST4970,Clothing,Sneakers,2,120.36,240.72,0,0.0,240.72,Credit Card,West,Alice Johnson,Completed
+ORD1240,2025-07-19,CUST3551,Sports,Yoga Mat,3,332.97,998.91,5,49.95,948.96,Credit Card,West,Bob Smith,Completed
+ORD1241,2025-07-20,CUST5654,Electronics,Tablet,8,559.37,4474.96,15,671.24,3803.72,Debit Card,South,Bob Smith,Completed
+ORD1242,2025-07-21,CUST7629,Clothing,Jacket,2,67.2,134.4,0,0.0,134.4,Credit Card,North,David Brown,Completed
+ORD1243,2025-07-22,CUST7509,Books,Science,5,42.82,214.1,5,10.7,203.4,Credit Card,East,Henry Taylor,Completed
+ORD1244,2025-07-22,CUST8329,Electronics,Smartwatch,5,1479.34,7396.7,10,739.67,6657.03,PayPal,West,David Brown,Completed
+ORD1245,2025-07-23,CUST8833,Home & Garden,Plant,1,293.09,293.09,0,0.0,293.09,Credit Card,Central,Carol White,Pending
+ORD1246,2025-07-24,CUST3990,Sports,Dumbbells,9,110.83,997.47,5,49.87,947.6,Credit Card,West,David Brown,Completed
+ORD1247,2025-07-24,CUST9381,Home & Garden,Bedding,5,187.55,937.75,0,0.0,937.75,Debit Card,North,Emma Davis,Pending
+ORD1248,2025-07-25,CUST7416,Home & Garden,Lamp,9,381.95,3437.55,5,171.88,3265.67,Debit Card,Central,David Brown,Cancelled
+ORD1249,2025-07-26,CUST1155,Home & Garden,Chair,2,89.34,178.68,0,0.0,178.68,Credit Card,North,David Brown,Completed
+ORD1250,2025-07-27,CUST5628,Home & Garden,Bedding,6,437.2,2623.2,0,0.0,2623.2,Credit Card,East,Alice Johnson,Completed
+ORD1251,2025-07-27,CUST8374,Sports,Bicycle,9,205.39,1848.51,15,277.28,1571.23,Cash,South,Carol White,Completed
+ORD1252,2025-07-28,CUST5596,Home & Garden,Cookware,6,213.19,1279.14,0,0.0,1279.14,Cash,East,Carol White,Completed
+ORD1253,2025-07-29,CUST2750,Sports,Yoga Mat,8,57.57,460.56,0,0.0,460.56,Cash,North,Carol White,Completed
+ORD1254,2025-07-30,CUST2531,Home & Garden,Chair,7,424.55,2971.85,10,297.18,2674.67,Debit Card,East,Grace Lee,Completed
+ORD1255,2025-07-30,CUST7816,Books,History,1,12.73,12.73,0,0.0,12.73,PayPal,West,Alice Johnson,Completed
+ORD1256,2025-07-31,CUST9259,Electronics,Headphones,9,1149.32,10343.88,0,0.0,10343.88,PayPal,West,Henry Taylor,Completed
+ORD1257,2025-08-01,CUST2492,Electronics,Smartwatch,3,1289.6,3868.8,0,0.0,3868.8,Credit Card,Central,Emma Davis,Completed
+ORD1258,2025-08-02,CUST5577,Sports,Yoga Mat,9,596.61,5369.49,20,1073.9,4295.59,Debit Card,North,Henry Taylor,Completed
+ORD1259,2025-08-02,CUST7748,Sports,Bicycle,9,384.94,3464.46,0,0.0,3464.46,Debit Card,Central,Carol White,Completed
+ORD1260,2025-08-03,CUST9770,Home & Garden,Bedding,4,347.92,1391.68,0,0.0,1391.68,Credit Card,West,Bob Smith,Completed
+ORD1261,2025-08-04,CUST4736,Electronics,Laptop,6,549.65,3297.9,0,0.0,3297.9,Credit Card,South,Alice Johnson,Completed
+ORD1262,2025-08-04,CUST3800,Home & Garden,Cookware,1,160.1,160.1,5,8.01,152.09,Debit Card,East,Henry Taylor,Completed
+ORD1263,2025-08-05,CUST5976,Sports,Yoga Mat,6,425.34,2552.04,20,510.41,2041.63,Credit Card,East,David Brown,Completed
+ORD1264,2025-08-06,CUST2800,Books,History,6,32.88,197.28,25,49.32,147.96,Debit Card,Central,Alice Johnson,Completed
+ORD1265,2025-08-07,CUST6823,Home & Garden,Cookware,9,268.48,2416.32,0,0.0,2416.32,Cash,East,Frank Wilson,Completed
+ORD1266,2025-08-07,CUST7132,Books,Fiction,3,25.59,76.77,5,3.84,72.93,Debit Card,Central,David Brown,Completed
+ORD1267,2025-08-08,CUST9365,Clothing,Sneakers,8,126.76,1014.08,20,202.82,811.26,Credit Card,Central,Grace Lee,Completed
+ORD1268,2025-08-09,CUST1593,Clothing,Jeans,1,34.88,34.88,5,1.74,33.14,Debit Card,Central,Carol White,Completed
+ORD1269,2025-08-10,CUST6889,Electronics,Laptop,3,725.51,2176.53,0,0.0,2176.53,Debit Card,Central,Alice Johnson,Pending
+ORD1270,2025-08-10,CUST8544,Books,Non-Fiction,3,30.09,90.27,20,18.05,72.22,PayPal,West,Carol White,Completed
+ORD1271,2025-08-11,CUST5008,Clothing,Dress,8,28.64,229.12,15,34.37,194.75,Debit Card,West,Carol White,Completed
+ORD1272,2025-08-12,CUST8064,Clothing,Dress,1,35.99,35.99,0,0.0,35.99,PayPal,North,Frank Wilson,Completed
+ORD1273,2025-08-12,CUST4259,Clothing,Sneakers,7,107.49,752.43,5,37.62,714.81,Credit Card,West,Bob Smith,Completed
+ORD1274,2025-08-13,CUST2141,Sports,Yoga Mat,8,359.01,2872.08,20,574.42,2297.66,Debit Card,West,David Brown,Completed
+ORD1275,2025-08-14,CUST3606,Sports,Tennis Racket,5,525.45,2627.25,20,525.45,2101.8,Credit Card,West,Carol White,Completed
+ORD1276,2025-08-15,CUST9767,Sports,Running Shoes,1,288.97,288.97,0,0.0,288.97,Credit Card,Central,Henry Taylor,Completed
+ORD1277,2025-08-15,CUST7980,Sports,Yoga Mat,1,106.58,106.58,0,0.0,106.58,Cash,East,Carol White,Completed
+ORD1278,2025-08-16,CUST7268,Home & Garden,Cookware,3,212.35,637.05,0,0.0,637.05,Credit Card,Central,Frank Wilson,Completed
+ORD1279,2025-08-17,CUST1785,Books,Non-Fiction,3,24.99,74.97,20,14.99,59.98,Cash,West,Alice Johnson,Completed
+ORD1280,2025-08-18,CUST4236,Sports,Yoga Mat,6,323.77,1942.62,5,97.13,1845.49,Debit Card,North,Alice Johnson,Completed
+ORD1281,2025-08-18,CUST2439,Books,Biography,3,43.54,130.62,0,0.0,130.62,Credit Card,Central,Carol White,Completed
+ORD1282,2025-08-19,CUST4456,Sports,Tennis Racket,7,773.97,5417.79,5,270.89,5146.9,Credit Card,West,Grace Lee,Completed
+ORD1283,2025-08-20,CUST9017,Clothing,Jacket,1,46.95,46.95,10,4.7,42.25,Debit Card,North,Henry Taylor,Completed
+ORD1284,2025-08-21,CUST4730,Books,Science,5,44.1,220.5,5,11.02,209.48,Debit Card,East,Emma Davis,Completed
+ORD1285,2025-08-21,CUST2207,Sports,Tennis Racket,7,603.04,4221.28,0,0.0,4221.28,PayPal,West,Alice Johnson,Pending
+ORD1286,2025-08-22,CUST8166,Electronics,Headphones,4,801.48,3205.92,20,641.18,2564.74,Credit Card,South,David Brown,Completed
+ORD1287,2025-08-23,CUST7068,Home & Garden,Cookware,3,461.81,1385.43,5,69.27,1316.16,Debit Card,East,Bob Smith,Completed
+ORD1288,2025-08-23,CUST8084,Sports,Tennis Racket,9,394.27,3548.43,0,0.0,3548.43,PayPal,North,Alice Johnson,Pending
+ORD1289,2025-08-24,CUST5117,Home & Garden,Cookware,7,240.71,1684.97,0,0.0,1684.97,PayPal,Central,Frank Wilson,Completed
+ORD1290,2025-08-25,CUST1695,Clothing,Dress,2,66.63,133.26,0,0.0,133.26,Credit Card,North,Frank Wilson,Cancelled
+ORD1291,2025-08-26,CUST4363,Clothing,T-Shirt,7,31.68,221.76,0,0.0,221.76,PayPal,North,Emma Davis,Completed
+ORD1292,2025-08-26,CUST4175,Books,Science,1,36.34,36.34,15,5.45,30.89,Credit Card,North,Bob Smith,Completed
+ORD1293,2025-08-27,CUST3130,Home & Garden,Cookware,2,288.09,576.18,0,0.0,576.18,Credit Card,East,Frank Wilson,Completed
+ORD1294,2025-08-28,CUST2497,Clothing,Jeans,6,51.49,308.94,0,0.0,308.94,Credit Card,Central,Henry Taylor,Completed
+ORD1295,2025-08-29,CUST3368,Home & Garden,Cookware,7,40.35,282.45,5,14.12,268.33,Credit Card,North,Alice Johnson,Completed
+ORD1296,2025-08-29,CUST1182,Home & Garden,Plant,9,225.58,2030.22,0,0.0,2030.22,PayPal,South,Bob Smith,Completed
+ORD1297,2025-08-30,CUST7846,Sports,Dumbbells,4,212.5,850.0,0,0.0,850.0,Cash,West,Emma Davis,Completed
+ORD1298,2025-08-31,CUST8016,Sports,Dumbbells,2,128.72,257.44,10,25.74,231.7,Credit Card,West,Alice Johnson,Completed
+ORD1299,2025-08-31,CUST7056,Clothing,Dress,6,26.09,156.54,10,15.65,140.89,PayPal,Central,David Brown,Completed
+ORD1300,2025-09-01,CUST6793,Home & Garden,Chair,3,199.31,597.93,5,29.9,568.03,PayPal,West,David Brown,Pending
+ORD1301,2025-09-02,CUST9662,Books,Biography,8,46.4,371.2,25,92.8,278.4,Credit Card,South,Emma Davis,Completed
+ORD1302,2025-09-03,CUST9043,Clothing,Dress,5,112.7,563.5,25,140.88,422.62,Debit Card,East,Alice Johnson,Pending
+ORD1303,2025-09-03,CUST2124,Electronics,Smartwatch,3,818.03,2454.09,10,245.41,2208.68,Debit Card,West,Henry Taylor,Completed
+ORD1304,2025-09-04,CUST3257,Clothing,Jacket,7,68.08,476.56,15,71.48,405.08,Debit Card,Central,Emma Davis,Completed
+ORD1305,2025-09-05,CUST3016,Electronics,Laptop,6,1330.69,7984.14,20,1596.83,6387.31,PayPal,West,Emma Davis,Completed
+ORD1306,2025-09-06,CUST4220,Electronics,Tablet,6,1160.18,6961.08,10,696.11,6264.97,Debit Card,West,Henry Taylor,Completed
+ORD1307,2025-09-06,CUST2673,Books,Science,9,11.72,105.48,15,15.82,89.66,Credit Card,Central,David Brown,Completed
+ORD1308,2025-09-07,CUST8011,Books,History,2,46.44,92.88,0,0.0,92.88,Debit Card,South,Carol White,Completed
+ORD1309,2025-09-08,CUST9931,Electronics,Tablet,8,973.67,7789.36,10,778.94,7010.42,Credit Card,South,David Brown,Completed
+ORD1310,2025-09-09,CUST6818,Sports,Yoga Mat,6,429.0,2574.0,0,0.0,2574.0,Credit Card,North,Bob Smith,Completed
+ORD1311,2025-09-09,CUST4709,Books,Fiction,7,40.93,286.51,0,0.0,286.51,Debit Card,West,Henry Taylor,Completed
+ORD1312,2025-09-10,CUST7919,Books,Science,9,43.88,394.92,5,19.75,375.17,PayPal,North,Grace Lee,Completed
+ORD1313,2025-09-11,CUST6345,Home & Garden,Bedding,9,452.74,4074.66,25,1018.66,3056.0,PayPal,West,Emma Davis,Completed
+ORD1314,2025-09-11,CUST7683,Clothing,Sneakers,9,144.51,1300.59,0,0.0,1300.59,Credit Card,North,Alice Johnson,Completed
+ORD1315,2025-09-12,CUST4764,Clothing,T-Shirt,3,100.91,302.73,0,0.0,302.73,Credit Card,West,Grace Lee,Completed
+ORD1316,2025-09-13,CUST3606,Electronics,Laptop,6,1431.61,8589.66,0,0.0,8589.66,Credit Card,North,Frank Wilson,Completed
+ORD1317,2025-09-14,CUST2946,Books,Science,8,35.24,281.92,0,0.0,281.92,Credit Card,South,Grace Lee,Pending
+ORD1318,2025-09-14,CUST2116,Books,Non-Fiction,3,31.87,95.61,0,0.0,95.61,Credit Card,West,Emma Davis,Completed
+ORD1319,2025-09-15,CUST3743,Home & Garden,Plant,6,277.8,1666.8,0,0.0,1666.8,Debit Card,East,Bob Smith,Completed
+ORD1320,2025-09-16,CUST1619,Books,Fiction,7,46.78,327.46,0,0.0,327.46,Cash,East,Emma Davis,Pending
+ORD1321,2025-09-17,CUST9711,Home & Garden,Cookware,2,275.09,550.18,25,137.54,412.64,Debit Card,Central,Bob Smith,Completed
+ORD1322,2025-09-17,CUST6973,Electronics,Headphones,4,1066.58,4266.32,5,213.32,4053.0,Debit Card,Central,Frank Wilson,Completed
+ORD1323,2025-09-18,CUST5967,Sports,Tennis Racket,5,317.16,1585.8,0,0.0,1585.8,PayPal,South,Grace Lee,Completed
+ORD1324,2025-09-19,CUST2196,Books,Biography,3,11.17,33.51,20,6.7,26.81,Credit Card,South,David Brown,Completed
+ORD1325,2025-09-20,CUST4824,Home & Garden,Lamp,9,496.83,4471.47,15,670.72,3800.75,Credit Card,East,David Brown,Completed
+ORD1326,2025-09-20,CUST9307,Home & Garden,Chair,1,238.85,238.85,15,35.83,203.02,Debit Card,Central,David Brown,Completed
+ORD1327,2025-09-21,CUST4786,Electronics,Smartphone,4,1372.91,5491.64,0,0.0,5491.64,Credit Card,North,Alice Johnson,Cancelled
+ORD1328,2025-09-22,CUST3871,Clothing,Dress,4,49.24,196.96,5,9.85,187.11,Debit Card,East,Emma Davis,Completed
+ORD1329,2025-09-22,CUST8812,Home & Garden,Plant,7,195.93,1371.51,25,342.88,1028.63,PayPal,Central,Frank Wilson,Completed
+ORD1330,2025-09-23,CUST1614,Clothing,Sneakers,8,46.58,372.64,0,0.0,372.64,Credit Card,West,Frank Wilson,Completed
+ORD1331,2025-09-24,CUST4607,Home & Garden,Plant,8,246.2,1969.6,15,295.44,1674.16,Credit Card,South,David Brown,Pending
+ORD1332,2025-09-25,CUST5276,Books,Science,5,27.01,135.05,0,0.0,135.05,Debit Card,North,Alice Johnson,Completed
+ORD1333,2025-09-25,CUST4156,Books,Fiction,7,48.92,342.44,0,0.0,342.44,Credit Card,Central,David Brown,Completed
+ORD1334,2025-09-26,CUST4240,Sports,Bicycle,3,265.32,795.96,10,79.6,716.36,Debit Card,Central,Emma Davis,Completed
+ORD1335,2025-09-27,CUST5591,Books,Fiction,3,20.11,60.33,0,0.0,60.33,PayPal,East,Grace Lee,Cancelled
+ORD1336,2025-09-28,CUST4273,Books,History,7,15.98,111.86,5,5.59,106.27,PayPal,East,Bob Smith,Completed
+ORD1337,2025-09-28,CUST7579,Home & Garden,Lamp,1,256.48,256.48,10,25.65,230.83,PayPal,North,Carol White,Completed
+ORD1338,2025-09-29,CUST8361,Electronics,Laptop,1,423.72,423.72,25,105.93,317.79,Cash,East,Frank Wilson,Completed
+ORD1339,2025-09-30,CUST6260,Books,Fiction,9,20.96,188.64,0,0.0,188.64,Credit Card,West,David Brown,Completed
+ORD1340,2025-09-30,CUST8106,Electronics,Tablet,7,1072.37,7506.59,5,375.33,7131.26,Debit Card,South,Grace Lee,Completed
+ORD1341,2025-10-01,CUST5173,Sports,Dumbbells,4,37.45,149.8,0,0.0,149.8,Cash,South,Alice Johnson,Completed
+ORD1342,2025-10-02,CUST9112,Sports,Running Shoes,6,413.34,2480.04,5,124.0,2356.04,Debit Card,East,Emma Davis,Completed
+ORD1343,2025-10-03,CUST1451,Books,Biography,9,48.1,432.9,0,0.0,432.9,Credit Card,West,Grace Lee,Completed
+ORD1344,2025-10-03,CUST8951,Electronics,Smartwatch,8,292.16,2337.28,25,584.32,1752.96,Credit Card,East,Carol White,Completed
+ORD1345,2025-10-04,CUST1139,Sports,Yoga Mat,5,450.37,2251.85,0,0.0,2251.85,Credit Card,North,Frank Wilson,Completed
+ORD1346,2025-10-05,CUST1018,Books,Biography,2,24.23,48.46,5,2.42,46.04,Credit Card,Central,Carol White,Completed
+ORD1347,2025-10-06,CUST7358,Sports,Yoga Mat,6,522.34,3134.04,10,313.4,2820.64,PayPal,East,Henry Taylor,Completed
+ORD1348,2025-10-06,CUST7361,Books,Non-Fiction,9,47.65,428.85,30,128.66,300.19,Credit Card,Central,Bob Smith,Cancelled
+ORD1349,2025-10-07,CUST4802,Books,Science,5,26.14,130.7,0,0.0,130.7,Credit Card,North,David Brown,Completed
+ORD1350,2025-10-08,CUST7309,Clothing,T-Shirt,2,116.22,232.44,0,0.0,232.44,Debit Card,South,Carol White,Completed
+ORD1351,2025-10-09,CUST4554,Sports,Running Shoes,4,358.54,1434.16,5,71.71,1362.45,Debit Card,South,Frank Wilson,Completed
+ORD1352,2025-10-09,CUST5195,Home & Garden,Lamp,6,241.82,1450.92,0,0.0,1450.92,Credit Card,East,David Brown,Completed
+ORD1353,2025-10-10,CUST5757,Home & Garden,Lamp,5,241.07,1205.35,25,301.34,904.01,Credit Card,East,Henry Taylor,Completed
+ORD1354,2025-10-11,CUST1816,Sports,Dumbbells,1,314.5,314.5,0,0.0,314.5,Cash,North,David Brown,Completed
+ORD1355,2025-10-11,CUST5937,Electronics,Smartwatch,6,1002.42,6014.52,25,1503.63,4510.89,Debit Card,South,Carol White,Completed
+ORD1356,2025-10-12,CUST9264,Home & Garden,Plant,4,459.84,1839.36,5,91.97,1747.39,Cash,East,Bob Smith,Completed
+ORD1357,2025-10-13,CUST9560,Home & Garden,Chair,2,345.22,690.44,10,69.04,621.4,Credit Card,Central,Grace Lee,Pending
+ORD1358,2025-10-14,CUST9252,Electronics,Laptop,2,220.56,441.12,0,0.0,441.12,Credit Card,South,Carol White,Completed
+ORD1359,2025-10-14,CUST2993,Clothing,Jeans,3,135.05,405.15,5,20.26,384.89,PayPal,North,Grace Lee,Completed
+ORD1360,2025-10-15,CUST1294,Home & Garden,Lamp,6,230.92,1385.52,15,207.83,1177.69,Credit Card,North,David Brown,Pending
+ORD1361,2025-10-16,CUST4641,Electronics,Smartphone,5,1223.6,6118.0,5,305.9,5812.1,PayPal,East,Carol White,Completed
+ORD1362,2025-10-17,CUST8697,Sports,Dumbbells,5,528.22,2641.1,15,396.16,2244.94,Credit Card,South,Grace Lee,Completed
+ORD1363,2025-10-17,CUST9003,Electronics,Smartwatch,7,591.36,4139.52,0,0.0,4139.52,Credit Card,West,Grace Lee,Completed
+ORD1364,2025-10-18,CUST1644,Clothing,T-Shirt,6,53.83,322.98,0,0.0,322.98,Cash,North,Bob Smith,Completed
+ORD1365,2025-10-19,CUST1195,Home & Garden,Plant,3,418.45,1255.35,0,0.0,1255.35,Debit Card,West,David Brown,Completed
+ORD1366,2025-10-20,CUST3591,Electronics,Smartwatch,4,1165.29,4661.16,20,932.23,3728.93,Debit Card,Central,David Brown,Completed
+ORD1367,2025-10-20,CUST3594,Clothing,T-Shirt,9,61.42,552.78,0,0.0,552.78,PayPal,North,Frank Wilson,Pending
+ORD1368,2025-10-21,CUST2700,Sports,Running Shoes,6,346.25,2077.5,0,0.0,2077.5,Debit Card,Central,Henry Taylor,Completed
+ORD1369,2025-10-22,CUST9837,Books,Fiction,5,39.63,198.15,10,19.82,178.33,Credit Card,West,Bob Smith,Completed
+ORD1370,2025-10-22,CUST2673,Electronics,Headphones,3,1152.14,3456.42,0,0.0,3456.42,Credit Card,West,Carol White,Completed
+ORD1371,2025-10-23,CUST1146,Sports,Running Shoes,7,215.15,1506.05,0,0.0,1506.05,Debit Card,West,Henry Taylor,Completed
+ORD1372,2025-10-24,CUST9640,Electronics,Laptop,8,903.18,7225.44,10,722.54,6502.9,Credit Card,Central,Bob Smith,Completed
+ORD1373,2025-10-25,CUST5390,Electronics,Smartphone,1,228.78,228.78,5,11.44,217.34,Credit Card,South,Alice Johnson,Completed
+ORD1374,2025-10-25,CUST1192,Electronics,Headphones,1,465.61,465.61,25,116.4,349.21,PayPal,North,Frank Wilson,Completed
+ORD1375,2025-10-26,CUST4893,Books,Biography,5,32.43,162.15,0,0.0,162.15,Debit Card,West,Alice Johnson,Completed
+ORD1376,2025-10-27,CUST1717,Electronics,Laptop,3,830.62,2491.86,0,0.0,2491.86,PayPal,Central,Carol White,Completed
+ORD1377,2025-10-28,CUST9575,Home & Garden,Cookware,9,65.58,590.22,15,88.53,501.69,Credit Card,South,Henry Taylor,Completed
+ORD1378,2025-10-28,CUST5780,Electronics,Tablet,4,1302.31,5209.24,10,520.92,4688.32,Debit Card,South,Bob Smith,Cancelled
+ORD1379,2025-10-29,CUST9397,Sports,Tennis Racket,3,458.27,1374.81,0,0.0,1374.81,Credit Card,East,Grace Lee,Completed
+ORD1380,2025-10-30,CUST1670,Sports,Running Shoes,2,533.97,1067.94,10,106.79,961.15,PayPal,West,Bob Smith,Completed
+ORD1381,2025-10-30,CUST3854,Electronics,Tablet,5,1196.47,5982.35,5,299.12,5683.23,Credit Card,South,David Brown,Completed
+ORD1382,2025-10-31,CUST2925,Sports,Tennis Racket,9,324.63,2921.67,0,0.0,2921.67,Cash,Central,Bob Smith,Completed
+ORD1383,2025-11-01,CUST6876,Home & Garden,Plant,4,337.44,1349.76,20,269.95,1079.81,Debit Card,South,David Brown,Completed
+ORD1384,2025-11-02,CUST7859,Home & Garden,Chair,2,143.51,287.02,5,14.35,272.67,PayPal,South,David Brown,Completed
+ORD1385,2025-11-02,CUST8485,Clothing,Jeans,3,37.37,112.11,15,16.82,95.29,Debit Card,North,Henry Taylor,Completed
+ORD1386,2025-11-03,CUST7111,Home & Garden,Cookware,1,329.1,329.1,5,16.45,312.65,Debit Card,West,Emma Davis,Completed
+ORD1387,2025-11-04,CUST5933,Sports,Dumbbells,4,538.03,2152.12,5,107.61,2044.51,Debit Card,West,Bob Smith,Completed
+ORD1388,2025-11-05,CUST5500,Sports,Yoga Mat,6,384.59,2307.54,0,0.0,2307.54,Debit Card,East,Grace Lee,Completed
+ORD1389,2025-11-05,CUST9092,Clothing,T-Shirt,8,136.73,1093.84,0,0.0,1093.84,Credit Card,Central,Frank Wilson,Completed
+ORD1390,2025-11-06,CUST1956,Electronics,Smartwatch,4,287.43,1149.72,20,229.94,919.78,Debit Card,East,Henry Taylor,Completed
+ORD1391,2025-11-07,CUST3964,Home & Garden,Cookware,1,298.45,298.45,25,74.61,223.84,Debit Card,East,Frank Wilson,Completed
+ORD1392,2025-11-08,CUST1991,Books,Biography,8,10.63,85.04,10,8.5,76.54,Credit Card,West,Henry Taylor,Completed
+ORD1393,2025-11-08,CUST1067,Clothing,Jacket,5,141.99,709.95,20,141.99,567.96,PayPal,Central,Emma Davis,Completed
+ORD1394,2025-11-09,CUST7039,Clothing,Dress,4,70.6,282.4,5,14.12,268.28,Credit Card,East,Frank Wilson,Completed
+ORD1395,2025-11-10,CUST6232,Home & Garden,Plant,2,497.95,995.9,10,99.59,896.31,Cash,South,David Brown,Completed
+ORD1396,2025-11-10,CUST8031,Home & Garden,Plant,7,347.15,2430.05,20,486.01,1944.04,Debit Card,East,Emma Davis,Completed
+ORD1397,2025-11-11,CUST7982,Home & Garden,Chair,6,334.86,2009.16,0,0.0,2009.16,Credit Card,West,Alice Johnson,Completed
+ORD1398,2025-11-12,CUST2135,Clothing,T-Shirt,2,128.86,257.72,0,0.0,257.72,Credit Card,North,Grace Lee,Completed
+ORD1399,2025-11-13,CUST3789,Sports,Running Shoes,2,520.25,1040.5,5,52.02,988.48,Credit Card,South,David Brown,Completed
+ORD1400,2025-11-13,CUST8129,Sports,Running Shoes,8,65.29,522.32,0,0.0,522.32,Debit Card,North,Henry Taylor,Completed
+ORD1401,2025-11-14,CUST8382,Home & Garden,Plant,8,488.81,3910.48,0,0.0,3910.48,Credit Card,North,Carol White,Completed
+ORD1402,2025-11-15,CUST7419,Electronics,Laptop,5,804.51,4022.55,0,0.0,4022.55,Debit Card,West,Grace Lee,Completed
+ORD1403,2025-11-16,CUST7065,Electronics,Smartphone,3,1419.35,4258.05,5,212.9,4045.15,Credit Card,West,Bob Smith,Completed
+ORD1404,2025-11-16,CUST9775,Clothing,Sneakers,4,77.0,308.0,25,77.0,231.0,Credit Card,West,Henry Taylor,Completed
+ORD1405,2025-11-17,CUST2036,Books,Science,1,43.06,43.06,0,0.0,43.06,Credit Card,West,Emma Davis,Pending
+ORD1406,2025-11-18,CUST2289,Clothing,Jeans,5,127.81,639.05,5,31.95,607.1,Credit Card,East,David Brown,Completed
+ORD1407,2025-11-18,CUST7324,Electronics,Laptop,9,797.46,7177.14,10,717.71,6459.43,Credit Card,South,Alice Johnson,Completed
+ORD1408,2025-11-19,CUST7094,Clothing,Jacket,1,148.93,148.93,20,29.79,119.14,PayPal,Central,Alice Johnson,Pending
+ORD1409,2025-11-20,CUST4109,Clothing,Jacket,9,87.96,791.64,5,39.58,752.06,Credit Card,East,David Brown,Pending
+ORD1410,2025-11-21,CUST3032,Clothing,Sneakers,8,74.1,592.8,0,0.0,592.8,Debit Card,Central,Frank Wilson,Completed
+ORD1411,2025-11-21,CUST2695,Clothing,Sneakers,8,146.13,1169.04,0,0.0,1169.04,Credit Card,East,Frank Wilson,Pending
+ORD1412,2025-11-22,CUST9597,Books,Biography,6,18.75,112.5,15,16.88,95.62,Cash,Central,Frank Wilson,Completed
+ORD1413,2025-11-23,CUST1348,Electronics,Headphones,1,1420.56,1420.56,10,142.06,1278.5,Cash,Central,Frank Wilson,Completed
+ORD1414,2025-11-24,CUST3985,Books,Non-Fiction,6,30.88,185.28,15,27.79,157.49,Debit Card,South,Alice Johnson,Completed
+ORD1415,2025-11-24,CUST6447,Sports,Yoga Mat,1,454.61,454.61,0,0.0,454.61,Credit Card,South,Carol White,Completed
+ORD1416,2025-11-25,CUST9347,Home & Garden,Lamp,7,399.33,2795.31,0,0.0,2795.31,Credit Card,North,Emma Davis,Completed
+ORD1417,2025-11-26,CUST2117,Clothing,T-Shirt,2,111.53,223.06,0,0.0,223.06,Debit Card,South,Emma Davis,Completed
+ORD1418,2025-11-27,CUST4435,Electronics,Headphones,9,999.67,8997.03,5,449.85,8547.18,Debit Card,Central,Grace Lee,Completed
+ORD1419,2025-11-27,CUST4791,Electronics,Tablet,1,1406.9,1406.9,15,211.04,1195.86,Credit Card,North,Henry Taylor,Completed
+ORD1420,2025-11-28,CUST4113,Electronics,Laptop,1,445.88,445.88,10,44.59,401.29,Debit Card,East,Carol White,Completed
+ORD1421,2025-11-29,CUST5485,Electronics,Smartphone,5,1080.61,5403.05,15,810.46,4592.59,Credit Card,South,Frank Wilson,Completed
+ORD1422,2025-11-29,CUST8282,Electronics,Laptop,8,504.75,4038.0,0,0.0,4038.0,Credit Card,South,Grace Lee,Completed
+ORD1423,2025-11-30,CUST8538,Home & Garden,Chair,8,337.09,2696.72,0,0.0,2696.72,Credit Card,West,David Brown,Pending
+ORD1424,2025-12-01,CUST6366,Sports,Dumbbells,1,378.1,378.1,10,37.81,340.29,PayPal,West,Frank Wilson,Completed
+ORD1425,2025-12-02,CUST7603,Home & Garden,Bedding,2,152.69,305.38,30,91.61,213.77,Credit Card,South,David Brown,Completed
+ORD1426,2025-12-02,CUST7653,Sports,Tennis Racket,2,371.2,742.4,0,0.0,742.4,PayPal,South,Alice Johnson,Completed
+ORD1427,2025-12-03,CUST4354,Clothing,Jacket,5,137.57,687.85,0,0.0,687.85,Debit Card,North,Grace Lee,Pending
+ORD1428,2025-12-04,CUST7995,Sports,Dumbbells,7,580.77,4065.39,20,813.08,3252.31,Credit Card,West,Grace Lee,Completed
+ORD1429,2025-12-05,CUST6552,Electronics,Laptop,3,1148.63,3445.89,0,0.0,3445.89,Credit Card,West,Frank Wilson,Completed
+ORD1430,2025-12-05,CUST8192,Sports,Tennis Racket,4,406.94,1627.76,10,162.78,1464.98,Credit Card,Central,Henry Taylor,Completed
+ORD1431,2025-12-06,CUST9721,Electronics,Headphones,7,647.14,4529.98,10,453.0,4076.98,PayPal,Central,David Brown,Completed
+ORD1432,2025-12-07,CUST7646,Home & Garden,Lamp,4,293.47,1173.88,0,0.0,1173.88,PayPal,East,Emma Davis,Completed
+ORD1433,2025-12-08,CUST1584,Books,History,6,14.75,88.5,0,0.0,88.5,PayPal,East,Henry Taylor,Completed
+ORD1434,2025-12-08,CUST1890,Home & Garden,Cookware,7,280.18,1961.26,0,0.0,1961.26,PayPal,Central,Emma Davis,Cancelled
+ORD1435,2025-12-09,CUST2587,Electronics,Smartphone,2,760.6,1521.2,0,0.0,1521.2,Debit Card,North,David Brown,Completed
+ORD1436,2025-12-10,CUST6454,Books,Fiction,6,20.11,120.66,20,24.13,96.53,Debit Card,North,Frank Wilson,Completed
+ORD1437,2025-12-10,CUST5591,Electronics,Laptop,1,924.5,924.5,15,138.68,785.82,Debit Card,Central,Frank Wilson,Completed
+ORD1438,2025-12-11,CUST2015,Books,History,1,25.38,25.38,0,0.0,25.38,Credit Card,East,David Brown,Pending
+ORD1439,2025-12-12,CUST5485,Electronics,Laptop,5,982.19,4910.95,0,0.0,4910.95,Debit Card,East,Henry Taylor,Completed
+ORD1440,2025-12-13,CUST5670,Electronics,Smartwatch,7,491.18,3438.26,5,171.91,3266.35,Debit Card,East,Grace Lee,Completed
+ORD1441,2025-12-13,CUST7524,Home & Garden,Bedding,8,288.81,2310.48,0,0.0,2310.48,Credit Card,North,Grace Lee,Completed
+ORD1442,2025-12-14,CUST4907,Sports,Tennis Racket,5,437.04,2185.2,0,0.0,2185.2,PayPal,East,Henry Taylor,Completed
+ORD1443,2025-12-15,CUST1757,Books,Non-Fiction,2,16.73,33.46,5,1.67,31.79,Cash,East,Grace Lee,Completed
+ORD1444,2025-12-16,CUST3845,Sports,Running Shoes,9,319.2,2872.8,0,0.0,2872.8,Debit Card,South,Frank Wilson,Completed
+ORD1445,2025-12-16,CUST9069,Books,Science,7,27.76,194.32,15,29.15,165.17,Debit Card,South,Emma Davis,Completed
+ORD1446,2025-12-17,CUST3671,Clothing,Jeans,9,52.44,471.96,0,0.0,471.96,Credit Card,East,Grace Lee,Completed
+ORD1447,2025-12-18,CUST1725,Electronics,Tablet,1,621.65,621.65,10,62.16,559.49,Credit Card,East,Frank Wilson,Completed
+ORD1448,2025-12-18,CUST3123,Home & Garden,Plant,3,495.46,1486.38,30,445.91,1040.47,Credit Card,North,Bob Smith,Pending
+ORD1449,2025-12-19,CUST3971,Clothing,Jacket,5,135.33,676.65,0,0.0,676.65,Debit Card,South,Emma Davis,Completed
+ORD1450,2025-12-20,CUST2048,Clothing,Jeans,7,30.94,216.58,15,32.49,184.09,Credit Card,East,David Brown,Completed
+ORD1451,2025-12-21,CUST4792,Home & Garden,Cookware,6,420.17,2521.02,25,630.26,1890.76,Credit Card,South,David Brown,Pending
+ORD1452,2025-12-21,CUST2012,Home & Garden,Cookware,3,227.4,682.2,0,0.0,682.2,Cash,East,Bob Smith,Completed
+ORD1453,2025-12-22,CUST7785,Home & Garden,Lamp,4,306.53,1226.12,25,306.53,919.59,Debit Card,South,Carol White,Completed
+ORD1454,2025-12-23,CUST1464,Sports,Bicycle,1,343.13,343.13,0,0.0,343.13,Credit Card,West,Emma Davis,Completed
+ORD1455,2025-12-24,CUST7543,Sports,Bicycle,5,64.18,320.9,0,0.0,320.9,Credit Card,South,Grace Lee,Completed
+ORD1456,2025-12-24,CUST6555,Books,History,4,23.38,93.52,10,9.35,84.17,Debit Card,East,Emma Davis,Completed
+ORD1457,2025-12-25,CUST4969,Home & Garden,Bedding,9,287.28,2585.52,0,0.0,2585.52,PayPal,South,Emma Davis,Completed
+ORD1458,2025-12-26,CUST3581,Home & Garden,Lamp,6,120.91,725.46,0,0.0,725.46,Credit Card,West,David Brown,Completed
+ORD1459,2025-12-27,CUST9339,Home & Garden,Cookware,4,334.61,1338.44,10,133.84,1204.6,PayPal,North,Henry Taylor,Completed
+ORD1460,2025-12-27,CUST6929,Sports,Running Shoes,4,304.37,1217.48,0,0.0,1217.48,Debit Card,North,Bob Smith,Completed
+ORD1461,2025-12-28,CUST1287,Clothing,Jacket,3,95.11,285.33,30,85.6,199.73,Debit Card,South,Carol White,Completed
+ORD1462,2025-12-29,CUST4178,Sports,Yoga Mat,7,413.05,2891.35,25,722.84,2168.51,Debit Card,North,Carol White,Completed
+ORD1463,2025-12-29,CUST2371,Clothing,Jeans,1,52.97,52.97,20,10.59,42.38,Credit Card,North,Grace Lee,Completed
+ORD1464,2025-12-30,CUST8498,Clothing,Jeans,3,132.52,397.56,0,0.0,397.56,Credit Card,Central,Carol White,Completed
+ORD1465,2025-12-31,CUST3077,Electronics,Smartphone,2,1195.58,2391.16,5,119.56,2271.6,Credit Card,West,Frank Wilson,Completed
+ORD1466,2026-01-01,CUST2384,Clothing,Sneakers,1,142.6,142.6,10,14.26,128.34,Credit Card,South,Grace Lee,Completed
+ORD1467,2026-01-01,CUST6593,Electronics,Tablet,9,1111.8,10006.2,30,3001.86,7004.34,Debit Card,North,Bob Smith,Completed
+ORD1468,2026-01-02,CUST5883,Clothing,T-Shirt,9,100.96,908.64,0,0.0,908.64,Debit Card,West,Bob Smith,Completed
+ORD1469,2026-01-03,CUST3172,Home & Garden,Lamp,2,342.0,684.0,0,0.0,684.0,Debit Card,Central,Bob Smith,Completed
+ORD1470,2026-01-04,CUST8189,Clothing,Jeans,8,72.86,582.88,20,116.58,466.3,Debit Card,Central,David Brown,Completed
+ORD1471,2026-01-04,CUST9671,Books,Science,6,34.58,207.48,0,0.0,207.48,Credit Card,Central,Carol White,Pending
+ORD1472,2026-01-05,CUST8148,Books,Biography,6,33.74,202.44,10,20.24,182.2,Credit Card,Central,Grace Lee,Completed
+ORD1473,2026-01-06,CUST4866,Electronics,Laptop,2,798.87,1597.74,0,0.0,1597.74,PayPal,West,Grace Lee,Completed
+ORD1474,2026-01-06,CUST6229,Home & Garden,Chair,3,36.41,109.23,0,0.0,109.23,PayPal,Central,Carol White,Pending
+ORD1475,2026-01-07,CUST5603,Books,Fiction,2,25.36,50.72,10,5.07,45.65,Credit Card,East,Alice Johnson,Completed
+ORD1476,2026-01-08,CUST3575,Sports,Running Shoes,6,668.04,4008.24,5,200.41,3807.83,Debit Card,East,David Brown,Completed
+ORD1477,2026-01-09,CUST8493,Clothing,Dress,1,59.75,59.75,5,2.99,56.76,Credit Card,Central,Henry Taylor,Completed
+ORD1478,2026-01-09,CUST4144,Home & Garden,Plant,4,301.89,1207.56,10,120.76,1086.8,Debit Card,West,Carol White,Completed
+ORD1479,2026-01-10,CUST3158,Books,Biography,9,17.47,157.23,0,0.0,157.23,PayPal,Central,Emma Davis,Completed
+ORD1480,2026-01-11,CUST1298,Sports,Dumbbells,3,430.76,1292.28,5,64.61,1227.67,PayPal,Central,David Brown,Completed
+ORD1481,2026-01-12,CUST3657,Home & Garden,Bedding,7,252.86,1770.02,0,0.0,1770.02,Debit Card,East,Carol White,Completed
+ORD1482,2026-01-12,CUST2466,Electronics,Smartphone,3,400.1,1200.3,15,180.04,1020.26,PayPal,West,Frank Wilson,Completed
+ORD1483,2026-01-13,CUST9106,Books,Science,6,17.6,105.6,5,5.28,100.32,Debit Card,East,Emma Davis,Completed
+ORD1484,2026-01-14,CUST6599,Electronics,Smartwatch,6,1196.49,7178.94,0,0.0,7178.94,Debit Card,North,Grace Lee,Completed
+ORD1485,2026-01-15,CUST8008,Electronics,Smartwatch,9,356.58,3209.22,0,0.0,3209.22,Credit Card,West,Frank Wilson,Completed
+ORD1486,2026-01-15,CUST1946,Electronics,Headphones,4,787.26,3149.04,5,157.45,2991.59,Debit Card,South,Carol White,Completed
+ORD1487,2026-01-16,CUST4590,Sports,Dumbbells,7,72.62,508.34,5,25.42,482.92,Credit Card,North,Bob Smith,Completed
+ORD1488,2026-01-17,CUST6867,Electronics,Smartwatch,4,344.57,1378.28,0,0.0,1378.28,Credit Card,Central,David Brown,Completed
+ORD1489,2026-01-17,CUST5386,Home & Garden,Lamp,7,131.01,917.07,5,45.85,871.22,PayPal,Central,Henry Taylor,Completed
+ORD1490,2026-01-18,CUST1507,Home & Garden,Cookware,9,295.95,2663.55,0,0.0,2663.55,Debit Card,Central,Henry Taylor,Pending
+ORD1491,2026-01-19,CUST8837,Sports,Tennis Racket,7,87.48,612.36,5,30.62,581.74,Debit Card,East,Bob Smith,Completed
+ORD1492,2026-01-20,CUST1441,Clothing,Jeans,7,56.02,392.14,10,39.21,352.93,Credit Card,South,Grace Lee,Completed
+ORD1493,2026-01-20,CUST3080,Sports,Running Shoes,5,425.12,2125.6,0,0.0,2125.6,PayPal,South,Emma Davis,Completed
+ORD1494,2026-01-21,CUST9462,Electronics,Smartwatch,1,216.78,216.78,5,10.84,205.94,Credit Card,South,David Brown,Completed
+ORD1495,2026-01-22,CUST6540,Clothing,Jacket,2,44.61,89.22,0,0.0,89.22,PayPal,South,Alice Johnson,Completed
+ORD1496,2026-01-23,CUST7748,Home & Garden,Bedding,4,123.72,494.88,0,0.0,494.88,Cash,South,David Brown,Completed
+ORD1497,2026-01-23,CUST9411,Electronics,Smartwatch,7,738.38,5168.66,10,516.87,4651.79,Debit Card,East,Grace Lee,Completed
+ORD1498,2026-01-24,CUST9134,Books,History,7,40.55,283.85,0,0.0,283.85,Credit Card,Central,Carol White,Completed
+ORD1499,2026-01-25,CUST4365,Sports,Tennis Racket,6,324.7,1948.2,0,0.0,1948.2,Debit Card,Central,Emma Davis,Completed
+ORD1500,2026-01-26,CUST1556,Clothing,Sneakers,3,81.68,245.04,0,0.0,245.04,PayPal,Central,Carol White,Completed
