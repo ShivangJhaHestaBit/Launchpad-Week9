@@ -96,7 +96,7 @@ async def main():
     }
 
     model_client = OpenAIChatCompletionClient(
-        model="openai/gpt-oss-120b",
+        model="openai/gpt-oss-20b",
         api_key=key,
         base_url="https://api.groq.com/openai/v1",
         model_info=model_info,
@@ -136,7 +136,7 @@ async def main():
     )
     
     tasks = [
-        "What is my name?",
+        "What did we discuss last time.",
     ]
     
     for task in tasks:

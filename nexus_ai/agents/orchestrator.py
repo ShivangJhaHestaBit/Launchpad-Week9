@@ -84,7 +84,7 @@ class MemoryEnabledOrchestrator:
                 memory_type="semantic"
             )
         
-        return final_result[-1]['output']
+        return final_result
     
     async def _build_comprehensive_memory_context(self, query: str) -> str:
         context_parts = []
